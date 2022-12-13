@@ -1,1 +1,1 @@
-# ST87
+# ST-87-Solution
